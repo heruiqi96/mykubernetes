@@ -1,2 +1,2 @@
-FROM quay.io/calico/kube-controllers:v3.1.3
+FROM quay.io/calico/kube-controllers:v3.4.0-amd64
 MAINTAINER heruiqi
